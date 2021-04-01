@@ -1,1 +1,13 @@
-test
+[user]
+	name =  Thanh Quang
+	email = thanquang19982gmail.com
+	
+[diff]
+	tool = p4merge
+[difftool"p4merge]
+	path = C:\\Program File \\Perforce\\p4merge.exe
+[mergettool]
+	prompt = false
+[code]
+	editor = 'C:/Program File (x86)/Notepad++/notepad++.exe'  - multiInst
+	-notabbar - nosession -noPlugin
